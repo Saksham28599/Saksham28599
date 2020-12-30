@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...Javascript
 - 🌱 I’m currently learning ...ReactJS and NodeJs
@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...He/His
 - ⚡ Fun fact: ...I Love My Love
--->
