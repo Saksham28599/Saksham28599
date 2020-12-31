@@ -25,7 +25,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham28599&theme=dark&hide_langs_below=1&count_private=true" />
 </a>
 <a href="https://github.com/Saksham28599">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Saksham28599&show_icons=true&theme=dracula&line_height=30&count_private=true" alt="Saksham's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Saksham28599&show_icons=true&theme=dark&line_height=30&count_private=true" alt="Saksham's github stats"/>
 </a>
 
 ### Show some ❤️ by starring some of the repositories!
