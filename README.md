@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on ...Javascript
+- 🔭 I’m currently working on ...Javascript,React and PYTHON
 - 🌱 I’m currently learning ...ReactJS and NodeJs
 - 👯 I’m looking to collaborate on ...Linkedin
 - 🤔 I’m looking for help with ...Web Development
