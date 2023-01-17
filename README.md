@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on ...Javascript,React and PYTHON
-- 🌱 I’m currently learning ...ReactJS and NodeJs
+- 🌱 I’m currently learning ...ReactJS and NodeJs + Cyber-Security, Ethical Hacking and I'm expert in Vulnerability Management
 - 👯 I’m looking to collaborate on ...Linkedin
 - 🤔 I’m looking for help with ...Web Development
 - 💬 Ask me about ...Gaming(I love Battle Royales), PYTHON and Web Development
